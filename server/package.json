@@ -1,26 +1,13 @@
 {
   
   "name": "socket-chat-example",
-  
   "version": "0.0.1",
-  
   "description": "my first socket.io app",
-  
   "type": "commonjs",
-  
-  "dependencies": {
-  
-    
-  "artillery": "^2.0.0-37",
-  
-    
+
+  "dependencies": {  
   "express": "^4.18.2",
-  
-    
   "redis": "^4.6.8",
-  
-    
   "socket.io": "^4.7.2"
-  
   }
 }
