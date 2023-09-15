@@ -69,6 +69,6 @@ io.on("connection", async (socket) => {
 });
 
 
-server.listen(3000, "172.31.31.0", () => {
+server.listen(3000, () => {
     console.log("server running");
 }) 
