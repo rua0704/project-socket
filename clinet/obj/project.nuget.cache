@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "d5JNzLm1W60rXZmq6oucvCt+iKh8wmHBket40Ek941i6jHBuaf+zPA2jluintD74aFjbmZTsHM7I3u8JHBwGTg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\김원겸\\Documents\\rua0704\\project-socket\\clinet\\clinet.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\김원겸\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\김원겸\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\김원겸\\.nuget\\packages\\socketio.core\\3.1.1\\socketio.core.3.1.1.nupkg.sha512",
+    "C:\\Users\\김원겸\\.nuget\\packages\\socketio.serializer.core\\3.1.1\\socketio.serializer.core.3.1.1.nupkg.sha512",
+    "C:\\Users\\김원겸\\.nuget\\packages\\socketio.serializer.systemtextjson\\3.1.1\\socketio.serializer.systemtextjson.3.1.1.nupkg.sha512",
+    "C:\\Users\\김원겸\\.nuget\\packages\\socketioclient\\3.1.1\\socketioclient.3.1.1.nupkg.sha512",
+    "C:\\Users\\김원겸\\.nuget\\packages\\system.collections\\4.3.0\\system.collections.4.3.0.nupkg.sha512",
+    "C:\\Users\\김원겸\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512",
+    "C:\\Users\\김원겸\\.nuget\\packages\\system.text.encodings.web\\7.0.0\\system.text.encodings.web.7.0.0.nupkg.sha512",
+    "C:\\Users\\김원겸\\.nuget\\packages\\system.text.json\\7.0.3\\system.text.json.7.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

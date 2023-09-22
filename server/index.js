@@ -11,9 +11,9 @@ const io = new Server(server);
 //     res.send("<h1>Hello world</h1>")
 // });
 
-app.get("/", (req, res) => {
-    res.sendFile(join(__dirname+"/index.html"));
-});
+// app.get("/", (req, res) => {
+//     res.sendFile(join(__dirname+"/index.html"));
+// });
 
 // io.on("connection", (socket) => {
 // 	console.log(`${socket.id} user is connected`)
@@ -32,7 +32,8 @@ app.get("/", (req, res) => {
 //         console.log("user disconnected");
 //     })
 // });
-app.use(cors());
+// app.use(cors());
+
 io.on("connection", async (socket) => {
     console.log(`${socket.id} user is connected`);
     socket.on("login", async (UserPk) => {
@@ -44,8 +45,8 @@ io.on("connection", async (socket) => {
         //방 생성
         await socket.join(socket.id);
         const participantSocketId = await redis.getSocketId(UserPk);
-        // console.log(`participantSocketId: ${participantSocketId}`);
-        // console.log(`${socket.id} room is created`)
+        console.log(`participantSocketId: ${participantSocketId}`);
+        console.log(`${socket.id} room is created`)
         io.to(participantSocketId).emit("invite", socket.id);
 
     });
@@ -53,7 +54,7 @@ io.on("connection", async (socket) => {
     socket.on("startPlay", async (roomId) => {
         //입장
         await socket.join(roomId);
-        // console.log(`join on ${roomId}`)
+        console.log(`join on ${roomId}`)
 
     });
     socket.on("endPlay", async (roomId) => {

@@ -1,0 +1,14 @@
+C:\Users\김원겸\Documents\rua0704\project-socket\clinet\bin\Debug\net7.0\clinet.exe
+C:\Users\김원겸\Documents\rua0704\project-socket\clinet\bin\Debug\net7.0\clinet.deps.json
+C:\Users\김원겸\Documents\rua0704\project-socket\clinet\bin\Debug\net7.0\clinet.runtimeconfig.json
+C:\Users\김원겸\Documents\rua0704\project-socket\clinet\bin\Debug\net7.0\clinet.dll
+C:\Users\김원겸\Documents\rua0704\project-socket\clinet\bin\Debug\net7.0\clinet.pdb
+C:\Users\김원겸\Documents\rua0704\project-socket\clinet\obj\Debug\net7.0\clinet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\김원겸\Documents\rua0704\project-socket\clinet\obj\Debug\net7.0\clinet.AssemblyInfoInputs.cache
+C:\Users\김원겸\Documents\rua0704\project-socket\clinet\obj\Debug\net7.0\clinet.AssemblyInfo.cs
+C:\Users\김원겸\Documents\rua0704\project-socket\clinet\obj\Debug\net7.0\clinet.csproj.CoreCompileInputs.cache
+C:\Users\김원겸\Documents\rua0704\project-socket\clinet\obj\Debug\net7.0\clinet.dll
+C:\Users\김원겸\Documents\rua0704\project-socket\clinet\obj\Debug\net7.0\refint\clinet.dll
+C:\Users\김원겸\Documents\rua0704\project-socket\clinet\obj\Debug\net7.0\clinet.pdb
+C:\Users\김원겸\Documents\rua0704\project-socket\clinet\obj\Debug\net7.0\clinet.genruntimeconfig.cache
+C:\Users\김원겸\Documents\rua0704\project-socket\clinet\obj\Debug\net7.0\ref\clinet.dll
