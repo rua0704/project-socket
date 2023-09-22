@@ -12,3 +12,9 @@ C:\Users\김원겸\Documents\rua0704\project-socket\clinet\obj\Debug\net7.0\refi
 C:\Users\김원겸\Documents\rua0704\project-socket\clinet\obj\Debug\net7.0\clinet.pdb
 C:\Users\김원겸\Documents\rua0704\project-socket\clinet\obj\Debug\net7.0\clinet.genruntimeconfig.cache
 C:\Users\김원겸\Documents\rua0704\project-socket\clinet\obj\Debug\net7.0\ref\clinet.dll
+C:\Users\김원겸\Documents\rua0704\project-socket\clinet\obj\Debug\net7.0\clinet.csproj.AssemblyReference.cache
+C:\Users\김원겸\Documents\rua0704\project-socket\clinet\bin\Debug\net7.0\SocketIO.Core.dll
+C:\Users\김원겸\Documents\rua0704\project-socket\clinet\bin\Debug\net7.0\SocketIO.Serializer.Core.dll
+C:\Users\김원겸\Documents\rua0704\project-socket\clinet\bin\Debug\net7.0\SocketIO.Serializer.SystemTextJson.dll
+C:\Users\김원겸\Documents\rua0704\project-socket\clinet\bin\Debug\net7.0\SocketIOClient.dll
+C:\Users\김원겸\Documents\rua0704\project-socket\clinet\obj\Debug\net7.0\clinet.csproj.CopyComplete

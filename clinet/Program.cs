@@ -1,9 +1,6 @@
-﻿// See https://aka.ms/new-console-template for more information
-using SocketIOClient;
-using SocketIO.Core;
-using SocketIO.Serializer.Core;
-using SocketIO.Serializer.SystemTextJson;
+﻿using SocketIOClient;
+ 
+var options = new SocketIOOptions{};
 
-
-var client = new SocketIO ("http://127.0.0.1:3000");
-   
+var client = new SocketIOClient.SocketIO("http://127.0.0.1:3000/");
+await client.ConnectAsync();
